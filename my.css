@@ -1,0 +1,113 @@
+
+body{
+    background-color: skyblue;
+}
+
+.side{
+    position: absolute;
+    width: 240px;
+    height: 424px;
+    left: 265px;
+    top: 102px;
+    color: white;
+    background-color: white;
+    box-shadow: 4px 0px 8px rgba(196, 28, 28, 0.25);
+    border-radius: 8px 8px;
+
+}
+
+.rightside{
+    position: absolute;
+    width: 575px;
+    height: 424px;
+    left: 529px;
+    top: 102px;
+    color: white;
+    background-color: white;
+    box-shadow: 4px 0px 8px rgba(196, 28, 28, 0.25);
+    border-radius: 8px 8px;
+
+}
+
+
+#name{
+	text-align:center;
+	color:black;
+	font-size:26px;
+	font-family: sans-serif;
+}
+
+#work{
+	text-align: center;
+    color: black;
+    font-size: 19px;
+    background: #E8F2F7;
+    border-radius: 20px;
+    padding: 8px;
+    margin-left: 46px;
+	font-family: sans-serif;
+}
+
+#about{
+	color:black;
+	font-size: 24px;
+    font-family: sans-serif;
+    margin-left: 41px;
+	line-height:70%;
+}
+
+#line{
+	width: 15%;
+    border-bottom: 2px solid blue;
+    color: black;
+    float: left;
+    margin-left: 7%;
+}
+
+#myline{
+	color:black;
+	font-family: sans-serif;
+	    margin-left: 7%;
+}
+
+
+
+
+#proj{
+	color:black;
+	font-family:sans-serif;
+	margin-left: 43px;
+    line-height: 1%;
+    font-size: 24px;
+}
+
+
+.bottomside{
+	background: #E8F2F7;
+    
+    left: 137%;
+    top: 102%;
+    background-color: #E8F2F7 border-radius: 8px 8px;
+    position: absolute;
+    width: 572px;
+    height: 252px;
+    left: 265px;
+    top: 102px;
+    color: lightblue;
+    background-color: #E8F2;
+    box-shadow: 4px 0px 8px rgba(196, 28, 28, 0.25);
+    
+    margin-left: -46%;
+    margin-top: 12%;
+	
+}
+
+#op:hover{
+	opacity:0.5;
+	
+}
+
+
+
+
+
